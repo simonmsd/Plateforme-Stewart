@@ -5,6 +5,8 @@ Le document "Rapport_Projet.pdf" vous permet de découvrir notre travail et d'ob
 
 Le document "Tableur_Stewart.xlsx" vous permet de déterminer les longueurs à donner aux bielles reliant les deux plateaux. Pour ce faire, il faut initialiser les paramètres des la plateforme dans les cellules "B1" à "B4". Ensuite, il faut entrer la position cible de la plateforme dans la colonne nommée "Cible" qui est la colonne "X", utiliser la fonction solveur d'Excel et lire les longueurs à donner aux bielles dans la colonne nommée "Longueurs ajustées" qui est la colonne "R".    
 
+Dans le document "Vidéo de démonstration", vous trouverez un lien permettant d'accéder à une vidéo du foctionnement du tableur et de la plateforme de Stewart.
+
 Le document "Rapport Projet.tex" est le code Latex qui a permis de créer le document pdf.
 
 Dans le dossier "modélisations", vous trouverez les modélisations des deux plateaux de la plateforme de Stewart. Ces modélisations ont été réalisées avec le logiciel FreeCAD.
